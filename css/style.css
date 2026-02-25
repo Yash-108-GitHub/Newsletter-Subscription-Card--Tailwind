@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.box{
+    @apply bg-purple-500 mt-2;
+}
